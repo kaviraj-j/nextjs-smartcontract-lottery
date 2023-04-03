@@ -1,0 +1,1 @@
+# NextJS Smartcontract Lottery (Raffle)
